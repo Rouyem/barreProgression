@@ -1,0 +1,10 @@
+#progress {
+    background-color: rgb(10, 184, 184);
+    height: 5px;
+    width: 0;
+    /* position fixe et en haut */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
